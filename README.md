@@ -15,7 +15,7 @@ The project demonstrates end-to-end data analytics workflows including:
 
 ## PROJECT OBJECTIVES
 
-Analyze job demand trends across industries and locations
+- Analyze job demand trends across industries and locations
 Explore Canadian labour market indicators using StatsCan data
 Build a live API-driven job intelligence system
 Visualize employer activity and hiring distribution
