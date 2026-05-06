@@ -67,3 +67,8 @@ API → Python → CSV → Power BI
 - Skill extraction using NLP
 - Cloud deployment using AWS/Azure
 - Historical trend tracking
+
+ ## 📸 Dashboard Preview
+
+ <img width="1162" height="646" alt="Screenshot 2026-05-06 193907" src="https://github.com/user-attachments/assets/8bff4f1a-7b6d-487f-92ab-a1184c119b0f" />
+
