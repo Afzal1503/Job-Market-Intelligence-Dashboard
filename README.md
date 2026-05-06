@@ -39,17 +39,24 @@ The project demonstrates end-to-end data analytics workflows including:
 - Salary analysis
 - Company insights
 
+  <img width="1162" height="646" alt="Screenshot 2026-05-06 193907" src="https://github.com/user-attachments/assets/e51999ba-3067-4bd4-af79-2b7a112a0a35" />
+
+
 ### Page 2 Canada Labour Market Analysis
 - Employment & unemployment trends
 - Labour force participation analysis
 - Full-time vs part-time employment
 - Economic workforce indicators
 
+<img width="1162" height="645" alt="Screenshot 2026-05-06 193931" src="https://github.com/user-attachments/assets/7cce401a-0caa-4c1c-8f50-9ecabf239102" />
+
 ### Page 3 Live Job Market Intelligence
 - API-driven live job postings
 - Employer hiring activity
 - Geographic job distribution
 - Real-time hiring trend analysis
+
+<img width="1165" height="650" alt="Screenshot 2026-05-06 193945" src="https://github.com/user-attachments/assets/71727b03-7309-4d34-be5e-fdadfb081180" />
 
 ## 🔄 API PIPELINE SECTION
 
@@ -68,7 +75,5 @@ API → Python → CSV → Power BI
 - Cloud deployment using AWS/Azure
 - Historical trend tracking
 
- ## 📸 Dashboard Preview
 
- <img width="1162" height="646" alt="Screenshot 2026-05-06 193907" src="https://github.com/user-attachments/assets/8bff4f1a-7b6d-487f-92ab-a1184c119b0f" />
 
