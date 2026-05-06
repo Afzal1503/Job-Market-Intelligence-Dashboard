@@ -3,15 +3,15 @@
 ## 📌PROJECT OVERVIEW
 
 
-This project is a multi-layer job market analytics solution developed using Microsoft Power BI, Python, and API integration. The dashboard combines static job datasets, Canada labour market statistics, and live job posting data to provide comprehensive insights into hiring trends, employment patterns, and market demand across Canada.
+This project is a multi-layer job market analytics solution developed using Microsoft Power BI, Python, and API integration. The dashboard combines static job datasets, Canada labour market statistics, and live job posting data to provide comprehensive insights into hiring trends, labour market conditions, employer activity, and geographic job demand across Canada.
 
 The project demonstrates end-to-end data analytics workflows including:
--   Data ingestion
--   API integration
--   Data transformation
--   Dashboard development
--   Data visualization
--   Market trend analysis
+-   API-driven data ingestion
+-Data preprocessing and transformation
+-Skill extraction from job descriptions
+-Data modeling and dashboard development
+-Interactive visualization and trend analysis
+-Near real-time job market intelligence reporting
 
 ## 🎯 PROJECT OBJECTIVES
 
