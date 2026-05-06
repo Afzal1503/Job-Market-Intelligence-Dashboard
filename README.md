@@ -16,39 +16,39 @@ The project demonstrates end-to-end data analytics workflows including:
 ## PROJECT OBJECTIVES
 
 - Analyze job demand trends across industries and locations
-Explore Canadian labour market indicators using StatsCan data
-Build a live API-driven job intelligence system
-Visualize employer activity and hiring distribution
-Simulate a real-world analytics reporting pipeline
+- Explore Canadian labour market indicators using StatsCan data
+- Build a live API-driven job intelligence system
+- Visualize employer activity and hiring distribution
+- Simulate a real-world analytics reporting pipeline
 
 ## TOOLS & TECHNOLOGIES
 
-Python
-Pandas
-Power BI
-Power Query
-DAX
-Adzuna API
-CSV Data Processing
+- Python
+- Pandas
+- Power BI
+- Power Query
+- DAX
+- Adzuna API
+- CSV Data Processing
 ## DASHBOARD PAGES
 
-1️⃣ Job Market Overview
-Industry-wise job distribution
-Hiring trends
-Salary analysis
-Company insights
+### Page 1 Job Market Overview
+- Industry-wise job distribution
+- Hiring trends
+- Salary analysis
+- Company insights
 
-2️⃣ Canada Labour Market Analysis
-Employment & unemployment trends
-Labour force participation analysis
-Full-time vs part-time employment
-Economic workforce indicators
+### Page 2 Canada Labour Market Analysis
+- Employment & unemployment trends
+- Labour force participation analysis
+- Full-time vs part-time employment
+- Economic workforce indicators
 
-3️⃣ Live Job Market Intelligence
-API-driven live job postings
-Employer hiring activity
-Geographic job distribution
-Real-time hiring trend analysis
+### Page 3 Live Job Market Intelligence
+- API-driven live job postings
+- Employer hiring activity
+- Geographic job distribution
+- Real-time hiring trend analysis
 
 ## API PIPELINE SECTION
 
