@@ -7,11 +7,11 @@ This project is a multi-layer job market analytics solution developed using Micr
 
 The project demonstrates end-to-end data analytics workflows including:
 -   API-driven data ingestion
--Data preprocessing and transformation
--Skill extraction from job descriptions
--Data modeling and dashboard development
--Interactive visualization and trend analysis
--Near real-time job market intelligence reporting
+- Data preprocessing and transformation
+- Skill extraction from job descriptions
+- Data modeling and dashboard development
+- Interactive visualization and trend analysis
+- Near real-time job market intelligence reporting
 
 ## 🎯 PROJECT OBJECTIVES
 
