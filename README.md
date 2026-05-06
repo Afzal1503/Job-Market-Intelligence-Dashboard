@@ -1,6 +1,6 @@
 # Job-Market-Intelligence-Dashboard
 
-## PROJECT OVERVIEW
+## 📌PROJECT OVERVIEW
 
 
 This project is a multi-layer job market analytics solution developed using Microsoft Power BI, Python, and API integration. The dashboard combines static job datasets, Canada labour market statistics, and live job posting data to provide comprehensive insights into hiring trends, employment patterns, and market demand across Canada.
@@ -13,7 +13,7 @@ The project demonstrates end-to-end data analytics workflows including:
 -   Data visualization
 -   Market trend analysis
 
-## PROJECT OBJECTIVES
+## 🎯 PROJECT OBJECTIVES
 
 - Analyze job demand trends across industries and locations
 - Explore Canadian labour market indicators using StatsCan data
@@ -21,7 +21,7 @@ The project demonstrates end-to-end data analytics workflows including:
 - Visualize employer activity and hiring distribution
 - Simulate a real-world analytics reporting pipeline
 
-## TOOLS & TECHNOLOGIES
+## 🛠️ TOOLS & TECHNOLOGIES
 
 - Python
 - Pandas
@@ -30,7 +30,8 @@ The project demonstrates end-to-end data analytics workflows including:
 - DAX
 - Adzuna API
 - CSV Data Processing
-## DASHBOARD PAGES
+- 
+## 📊 DASHBOARD PAGES
 
 ### Page 1 Job Market Overview
 - Industry-wise job distribution
@@ -50,7 +51,7 @@ The project demonstrates end-to-end data analytics workflows including:
 - Geographic job distribution
 - Real-time hiring trend analysis
 
-## API PIPELINE SECTION
+## 🔄 API PIPELINE SECTION
 
 
 A Python-based data pipeline was developed to extract live job posting data from the Adzuna. The script dynamically generates updated datasets which can be refreshed in Power BI for near real-time job market analysis.
@@ -59,7 +60,7 @@ Pipeline Flow:
 
 API → Python → CSV → Power BI
 
-## FUTURE ENHANCEMENTS
+## 🚀 FUTURE ENHANCEMENTS
 
 - Automated scheduled refresh pipeline
 - Real-time dashboard integration
