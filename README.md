@@ -61,8 +61,8 @@ API → Python → CSV → Power BI
 
 ## FUTURE ENHANCEMENTS
 
-Automated scheduled refresh pipeline
-Real-time dashboard integration
-Skill extraction using NLP
-Cloud deployment using AWS/Azure
-Historical trend tracking
+- Automated scheduled refresh pipeline
+- Real-time dashboard integration
+- Skill extraction using NLP
+- Cloud deployment using AWS/Azure
+- Historical trend tracking
