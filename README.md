@@ -30,7 +30,9 @@ The project demonstrates end-to-end data analytics workflows including:
 - DAX
 - Adzuna API
 - CSV Data Processing
-- 
+- Data Transformation & Cleaning
+- Skill Extraction Logic
+  
 ## 📊 DASHBOARD PAGES
 
 ### Page 1 Job Market Overview
@@ -71,9 +73,8 @@ API → Python → CSV → Power BI
 
 - Automated scheduled refresh pipeline
 - Real-time dashboard integration
-- Skill extraction using NLP
 - Cloud deployment using AWS/Azure
 - Historical trend tracking
-
+- Advanced predictive analytics
 
 
