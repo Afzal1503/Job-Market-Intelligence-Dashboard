@@ -32,7 +32,11 @@ The project demonstrates end-to-end data analytics workflows including:
 - CSV Data Processing
 - Data Transformation & Cleaning
 - Skill Extraction Logic
-  
+
+## Dashboard Demo
+
+  <img width="800" height="448" alt="dashboard_demo" src="https://github.com/user-attachments/assets/a9aea707-0618-4109-98aa-974e5ae3a28e" />
+
 ## 📊 DASHBOARD PAGES
 
 ### Page 1 Job Market Overview
